@@ -1,4 +1,4 @@
-use {
+use
   super::*,
   clap::builder::styling::{AnsiColor, Effects, Styles},
 };
